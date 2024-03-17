@@ -2,11 +2,15 @@
 .hide-mobile {
     display: none;
 }
-
+.wrap{
+    margin: 1em;
+}
 body {
     background-color: #FFFBF3;
     margin: 0;
     padding: 0;
+    width: 100vh;
+    height: 100vh;
     font-family: 'Inter';
 }
 
