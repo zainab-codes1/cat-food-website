@@ -3,7 +3,7 @@
     display: none;
 }
 .wrap{
-    margin: 1em;
+    margin: 2em;
 }
 body {
     background-color: #FFFBF3;
@@ -123,8 +123,8 @@ a.primary-cta {
     }
     .outer-circle {
         background: white;
-        width: 500px;
-        height: 500px;
+        width: 1000px;
+        height: 1000px;
         z-index: -2;
     }
 }
